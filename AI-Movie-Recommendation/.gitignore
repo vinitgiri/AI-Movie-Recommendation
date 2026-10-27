@@ -1,0 +1,28 @@
+# Dataset (never commit — download separately, see README)
+data/ml-1m/*.dat
+
+# Trained models / generated artifacts
+models/*.pkl
+results/metrics.json
+results/model_comparison.csv
+results/plots/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
