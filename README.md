@@ -128,7 +128,6 @@ If TMDB configuration is optional in your current setup, the application may sti
 
 ```bash
 python -m streamlit run app.py
-```
 
 Open the local URL shown in the terminal, usually:
 
