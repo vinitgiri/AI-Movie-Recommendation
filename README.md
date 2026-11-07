@@ -180,7 +180,6 @@ This project is intended for educational and research purposes. Movie informatio
 **Vinit Kumar Giri**
 
 - GitHub: [@vinitgiri](https://github.com/vinitgiri)
-
----
+-
 
 ⭐ If you find this project useful, consider giving the repository a star!
