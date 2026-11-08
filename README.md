@@ -102,8 +102,7 @@ Activate it on Windows PowerShell:
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
-```
-
+``
 ### 3. Install Dependencies
 
 ```bash
